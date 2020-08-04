@@ -1,0 +1,13 @@
+.h1, h1 {
+    font-size: 3rem;
+    font-style: italic;
+    font-family: initial;
+}
+.row {
+    background-color: antiquewhite;
+}
+.btn-primary {
+    color: #f8f9fa;
+    background-color: #343a40;
+    border-color: #07ff48;
+}
